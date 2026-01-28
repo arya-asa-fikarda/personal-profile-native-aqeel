@@ -49,7 +49,7 @@
                         aria-labelledby="notifDropdown">
                         <li>
                             <div class="dropdown-title">
-                                You have 4 new notification
+                                You have 4 new notificationmnnnnnn
                             </div>
                         </li>
                         <li>
